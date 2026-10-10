@@ -38,7 +38,6 @@ Full-stack developer with a strong focus on building scalable web applications, 
 ![MERN](https://img.shields.io/badge/MERN-Full%20Stack-36BCF7?style=for-the-badge)
 ![REST APIs](https://img.shields.io/badge/REST-APIs-6DB33F?style=for-the-badge)
 
-### 💻 Languages
 
 ### 💻 Languages
 
