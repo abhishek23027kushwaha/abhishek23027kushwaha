@@ -20,20 +20,18 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const abhishekKumar = {
-  role: "MERN Stack Developer",
-  focus: ["Backend", "REST APIs", "Problem Solving"],
-  motto: "Building scalable web apps with clean code.",
-};
-```
+Full-stack developer with a strong focus on building scalable web applications, designing efficient backend systems, and writing clean, maintainable code.
+
+- Working with React, Next.js, Node.js, Express, MongoDB, and TypeScript.
+- Focused on backend architecture, REST API design, and database optimization.
+- Interested in AI technologies including Retrieval-Augmented Generation (RAG) and multi-agent workflows.
+- Contact: your.email@example.com
 
 - 🌐 **MERN Stack Developer** building scalable web apps with clean code
 - ⚙️ Passionate about **backend development, APIs, and problem-solving**
 - 🚀 Always building projects and learning something new every day
 - 🎯 Open to **internships, entry-level roles, and collaborations**
 
----
 
 ## 🛠️ Tech Stack
 
