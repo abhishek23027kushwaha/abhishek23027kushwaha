@@ -1,6 +1,9 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Backend%20%26%20APIs&descAlignY=58&descSize=20)](https://github.com/abhishek23027kushwaha)
+
+![header](header.svg)
+
+![typing](typing.svg)type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Backend%20%26%20APIs&descAlignY=58&descSize=20)](https://github.com/abhishek23027kushwaha)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Abhishek+Kumar;MERN+Stack+Developer;Building+scalable+web+apps+with+clean+code;Passionate+about+Backend,+APIs+%26+Problem-Solving;Building+projects,+learning+every+day)](https://github.com/abhishek23027kushwaha)
 
