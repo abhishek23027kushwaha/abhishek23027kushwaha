@@ -87,6 +87,17 @@ Full-stack developer with a strong focus on building scalable web applications, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 🤖 AI & GenAI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-36BCF7?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Workflows-8A2BE2?style=for-the-badge)
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
