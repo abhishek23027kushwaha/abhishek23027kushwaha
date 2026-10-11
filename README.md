@@ -100,16 +100,7 @@ Full-stack developer with a strong focus on building scalable web applications, 
 
 ---
 
-## 📂 Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| 🎓 **LMS** | Learning Management System | [View Repo](https://github.com/abhishek23027kushwaha/LMS) |
-| 🍔 **food_web** | Food website built with JavaScript | [View Repo](https://github.com/abhishek23027kushwaha/food_web) |
-| 🧮 **codeSoftCalculator** | Calculator app built with JavaScript | [View Repo](https://github.com/abhishek23027kushwaha/codeSoftCalculator) |
-| 🌐 **codesoftPortfolio** | Personal portfolio website | [View Repo](https://github.com/abhishek23027kushwaha/codesoftPortfolio) |
-
----
 
 ## 📊 GitHub Stats
 
